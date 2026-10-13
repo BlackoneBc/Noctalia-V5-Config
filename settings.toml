@@ -362,28 +362,6 @@ screen_time_enabled = true
     "Deutsch de" = "de"
 
     [shell.launcher]
-    pinned = [
-        "firefox",
-        "discord",
-        "com.valvesoftware.Steam",
-        "com.heroicgameslauncher.hgl",
-        "org.gnome.Terminal",
-        "org.gnome.Nautilus",
-        "com.spotify.Client",
-        "com.github.IsmaelMartinez.teams_for_linux",
-        "com.rtosta.zapzap",
-        "org.mozilla.thunderbird",
-        "io.gitlab.adhami3310.Impression",
-        "org.gnome.Showtime",
-        "org.videolan.VLC",
-        "org.prismlauncher.PrismLauncher",
-        "org.gnome.TextEditor",
-        "org.onlyoffice.desktopeditors",
-        "org.gnome.Software",
-        "io.missioncenter.MissionCenter",
-        "librewolf",
-        "com.brave.Browser"
-    ]
 
     [shell.panel]
     floating_layer = "top"
@@ -403,15 +381,15 @@ source = "community"
     builtin_ids = [ "labwc" ]
 
 [wallpaper]
-directory = "/home/lennart/Dokumente/Wallpaper"
+directory = "~/Dokumente/Wallpaper"
 transition_duration = 2800
 transition_on_startup = true
 
     [wallpaper.default]
-    path = "/home/lennart/Dokumente/Wallpaper/dark-waves.jpg"
+    path = "~/Dokumente/Wallpaper/dark-waves.jpg"
 
     [wallpaper.last]
-    path = "/home/lennart/Dokumente/Wallpaper/dark-waves.jpg"
+    path = "~/Dokumente/Wallpaper/dark-waves.jpg"
 
     [wallpaper.monitor.DP-1]
     fill_color = "primary"
